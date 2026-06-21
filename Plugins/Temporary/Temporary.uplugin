@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "Temporary",
+	"Description": "10번 과제용 수동 구축 플러그인 (StartupModule/ShutdownModule 데모)",
+	"Category": "Other",
+	"CreatedBy": "JangSik",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "Temporary",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}

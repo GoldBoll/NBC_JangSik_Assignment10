@@ -1,0 +1,20 @@
+# Unreal Engine 표준 무시 목록
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
+.vs/
+*.VC.db
+*.VC.opendb
+*.opensdf
+*.opendb
+*.sdf
+*.sln
+*.suo
+*.xcodeproj
+*.xcworkspace
+
+# 플러그인 빌드 산출물
+Plugins/**/Binaries/
+Plugins/**/Intermediate/
